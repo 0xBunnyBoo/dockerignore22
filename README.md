@@ -1,1 +1,12 @@
-# dockerignore22
+**/target/**
+Dockerfile*
+.dockerignore
+.git
+.gitignore
+examples
+tests
+book
+target
+assets
+audits
+.github
